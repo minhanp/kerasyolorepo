@@ -1,0 +1,17 @@
+[paths]
+path_wd = c:\Users\Minh An\Documents\Universität\Bachelor\kerasyolorepo\yolotemp
+dataset_path = c:\Users\Minh An\Documents\Universität\Bachelor\kerasyolorepo\yolotemp
+filename_ann = yolomodel
+
+[tools]
+evaluate_ann = False
+simulate = False
+normalize = True
+
+[simulation]
+simulator = INI
+duration = 1
+num_to_test = 1
+batch_size = 1
+keras_backend = tensorflow
+
