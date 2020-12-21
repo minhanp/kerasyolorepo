@@ -1,6 +1,6 @@
 # kerasyolorepo
 
-To try this, you have to download the weights from https://pjreddie.com/media/files/yolov3.weights and then put them in this base directory.
+To try this, you have to download the weights from https://pjreddie.com/media/files/yolov3.weights and then put them into this base directory.
 
 Then run yolomodel.py to save the model in .h5 and then yolomodeltest.snn to run the snn simulation
 
